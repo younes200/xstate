@@ -1,5 +1,11 @@
 # xstate
 
+## 4.9.2
+
+### Patch Changes
+
+- [`e16e48e`](https://github.com/davidkpiano/xstate/commit/e16e48e05e6243a3eacca58a13d3e663cd641f55) [#1153](https://github.com/davidkpiano/xstate/pull/1153) Thanks [@Andarist](https://github.com/Andarist)! - Fixed an issue with `choose` and `pure` not being able to use actions defined in options.
+
 ## 4.9.1
 
 ### Patch Changes
